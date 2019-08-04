@@ -1,0 +1,14 @@
+{
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "hosting": {
+    "public": "./"
+  },
+  "ignore": [
+    "**/node_modules/**",
+	"**/resources/**",
+	"**/hooks/**",
+	"**/bower_components/**"
+  ]
+}
