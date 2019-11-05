@@ -27,7 +27,7 @@
     "ionic-gulp-sass-build": "^1.0.0",
     "ionic-gulp-scripts-copy": "^2.0.0",
     "method-override": "^2.3.6",
-    "mongoose": "^4.5.3",
+    "mongoose": "^5.7.8",
     "morgan": "^1.7.0",
     "run-sequence": "1.1.5"
   },
